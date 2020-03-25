@@ -1,0 +1,2 @@
+npm install cors - Determina quem podera acessar minha aplicacao. ex: 
+    
